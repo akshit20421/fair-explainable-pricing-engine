@@ -23,12 +23,9 @@ The objective is not just predictive accuracy, but responsible, interpretable, a
 
 notebooks/
 │
-├── 01_eda.ipynb
-├── 02_modeling.ipynb
-└── 03_explainability_fairness.ipynb
-
-yaml
-Copy code
+--01_eda.ipynb
+├-02_modeling.ipynb
+--03_explainability_fairness.ipynb
 
 ---
 
